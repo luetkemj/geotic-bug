@@ -7,7 +7,7 @@ npm i
 npm start
 ```
 
-Navigate to http://localhost:8080 in your browser. Open the developer console. You should see the follow bug:
+Navigate to http://localhost:8080 in your browser. Open the developer console. You should see the following bug:
 
 `Uncaught TypeError: Cannot mix BigInt and other types, use explicit conversions`
 
